@@ -18,9 +18,9 @@ I am a passionate Computer Science and Engineering student at JECRC University, 
 [View Project](https://github.com/rohitkumar-14/EternityHub-Ecommerce-site)
 
 ## 🛠️ Tech Stack
-- Frontend: [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma)](https://skillicons.dev)
-- Backend: [![My Skills](https://skillicons.dev/icons?i=nodejs,py,express,mysql,mongodb,linux,windows,npm)](https://skillicons.dev)
-- Dev Tools: [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py,express,mysql,mongodb,linux,windows,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vite,vscode)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 - 🚀 Learning Full Stack Web Development
