@@ -9,7 +9,7 @@ I am a passionate Computer Science and Engineering student at JECRC University, 
 
 ## 🛠️ Projects
 - KiddoTales: A React-based web app generating engaging children’s stories with Google Generative AI. Features include personalized stories and local storage.
-[View Project]()
+[View Project](https://github.com/rohitkumar-14/Kiddos-Tales)
 
 - LifeGivers: A MERN stack platform facilitating blood and organ donations, featuring role-based registration and secure authentication.
 [View Project](https://github.com/rohitkumar-14/LifeGivers-Blood-and-Organ-Donation-Platform)
